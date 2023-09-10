@@ -1,4 +1,6 @@
-<img src="./assets/logo.png" width="128"/>
+<p align="center">
+    <img src="./assets/logo.png" width="128"/>
+</p>
 
 ## Brain dump of the grizzy kids ai video ( text to kids video gen )
 
