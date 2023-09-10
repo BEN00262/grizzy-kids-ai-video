@@ -1,4 +1,4 @@
-## brain dump of the grizzy kids ai video ( text to kids video gen )
+## Brain dump of the grizzy kids ai video ( text to kids video gen )
 
 <video width="630" height="300" src="./assets/Environment.mp4"></video>
 
