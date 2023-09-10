@@ -1,4 +1,4 @@
-![Grizzy Ai kids logo](./assets/logo.png)
+<img src="./assets/logo.png" width="128"/>
 
 ## Brain dump of the grizzy kids ai video ( text to kids video gen )
 
